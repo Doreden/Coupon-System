@@ -1,0 +1,35 @@
+.CreateCoupon>form {
+    background-color: rgba(96, 223, 242, 0.617);
+    width: 550px;
+    height: 560px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.CreateCoupon select {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.CreateCoupon input {
+    background-color: rgb(242, 242, 247);
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+.CreateCoupon button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.CreateCoupon button {
+    background-color: rgba(255, 115, 0, 0.998);
+    font-weight: bold;
+}

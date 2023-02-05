@@ -1,0 +1,10 @@
+
+°
+java:S1130"’Remove the declaration of thrown exception 'com.dor.couponsprojectapp.errors.exceptions.AuthException', as it cannot be thrown from method's body.(‰¤Ê¨8‘©÷ä¾0
+c
+java:S1128"FRemove this unused import 'com.dor.couponsprojectapp.dto.ResponseDTO'.(î€Íã8’©÷ä¾0
+x
+java:S1128"[Remove this unused import 'com.dor.couponsprojectapp.errors.exceptions.CouponAppException'.(ÏÇÕž8’©÷ä¾0
+b
+java:S1128
+"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8’©÷ä¾0

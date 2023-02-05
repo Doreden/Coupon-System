@@ -1,0 +1,13 @@
+
+s
+java:S1192W"]Define a constant instead of duplicating this literal "This Coupon Does Not Exists!" 3 times.(÷ªîÃ
+n
+java:S3655¦"RCall "couponOpt.isPresent()" or "!couponOpt.isEmpty()" before accessing the value.(¹ÿè°ÿÿÿÿÿ
+p
+java:S3655—"TCall "companyOpt.isPresent()" or "!companyOpt.isEmpty()" before accessing the value.(ƒ£çÉþÿÿÿÿ
+o
+java:S3655r"TCall "companyOpt.isPresent()" or "!companyOpt.isEmpty()" before accessing the value.(˜¤Ø·ýÿÿÿÿ
+k
+java:S3655ñ"TCall "companyOpt.isPresent()" or "!companyOpt.isEmpty()" before accessing the value.(µ …„
+k
+java:S3655À"TCall "companyOpt.isPresent()" or "!companyOpt.isEmpty()" before accessing the value.(µ …„

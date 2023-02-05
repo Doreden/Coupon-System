@@ -1,0 +1,23 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    password: ${SQL_PASSWORD}
+    url: jdbc:mysql://localhost:3306/coupons_project?createDatabaseIfNotExist=true
+    username: root
+  jpa:
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+        enable_lazy_load_no_trans: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+  sql:
+    init:
+      platform: mysql
+

@@ -1,0 +1,13 @@
+
+€
+java:S1192h"kDefine a constant instead of duplicating this literal "There Arent Any Coupons For This Customer!" 3 times.(’Ñ×1
+r
+java:S3655Ì"VCall "customerOpt.isPresent()" or "!customerOpt.isEmpty()" before accessing the value.(¥«°şÿÿÿÿ
+r
+java:S3655"VCall "customerOpt.isPresent()" or "!customerOpt.isEmpty()" before accessing the value.(¥«°şÿÿÿÿ
+k
+java:S36556"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(âìñåÿÿÿÿÿ
+q
+java:S3655}"VCall "customerOpt.isPresent()" or "!customerOpt.isEmpty()" before accessing the value.(¯’ß ÿÿÿÿÿ
+r
+java:S3655ô"VCall "customerOpt.isPresent()" or "!customerOpt.isEmpty()" before accessing the value.(í•ôŸüÿÿÿÿ

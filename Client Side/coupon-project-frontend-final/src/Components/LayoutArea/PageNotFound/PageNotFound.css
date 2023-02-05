@@ -1,0 +1,9 @@
+.PageNotFound {
+    display: flex;
+}
+
+.PageNotFound > img{
+    background-size: cover;
+    width: 100%;
+    height: 846px;
+}

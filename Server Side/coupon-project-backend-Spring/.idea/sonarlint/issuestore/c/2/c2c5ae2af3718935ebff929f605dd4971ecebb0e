@@ -1,0 +1,9 @@
+
+Z
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(Ë¶Ï“
+T
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(Ö˜ÔÚ
+P
+java:S1161"":Add the "@Override" annotation above this method signature(í–ÉŒ
+Q
+java:S1874>";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö

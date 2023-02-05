@@ -1,0 +1,48 @@
+.Home>img {
+    margin-top: 200px;
+    /* display: flex; */
+    margin-right: 200px;
+    width: 50%;
+    height: 50%;
+    opacity: 80.5%;
+    border-color: turquoise;
+}
+
+.gif1 {
+    width: 480px;
+    height: 402px;
+    display: flex;
+    opacity: 80%;
+}
+
+
+
+.gif2 {
+    width: 480px;
+    height: 402px;
+    position: fixed;
+    margin-top: 78px;
+    margin-left: 357px;
+    opacity: 80%;
+
+}
+
+.gif3 {
+    width: 480px;
+    height: 402px;
+    display: flex;
+    position: fixed;
+    margin-left: 1194px;
+    bottom: 52%;
+    opacity: 80%;
+
+}
+
+.gif4 {
+    width: 480px;
+    height: 402px;
+    right: 1150px;
+    display: flex;
+    position: fixed;
+    opacity: 50%;
+}

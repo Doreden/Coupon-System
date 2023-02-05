@@ -1,0 +1,42 @@
+.Menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.Menu>.active {
+    color: rgb(42, 5, 251);
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Menu>img {
+    width: 50%;
+    height: 576px;
+    margin-top: 60px;
+    background-size: cover;
+    margin-left: 20%;
+}
+
+.customerMenu {
+    text-decoration: underline;
+    color: black;
+    font-size: x-large;
+}
+
+.companyMenu {
+    text-decoration: underline;
+    color: black;
+    font-size: x-large;
+}
+
+.adminMenu {
+    text-decoration: underline;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}

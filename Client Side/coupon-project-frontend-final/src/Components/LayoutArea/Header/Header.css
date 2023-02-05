@@ -1,0 +1,21 @@
+.Header {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(6, 8, 8);
+    background-image: url("/src/Assets/Sunheader.png");
+}
+
+.Header>a {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    transform: scale(3.2);
+}
+
+.headline {
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: grey;
+    text-decoration: underline;
+}

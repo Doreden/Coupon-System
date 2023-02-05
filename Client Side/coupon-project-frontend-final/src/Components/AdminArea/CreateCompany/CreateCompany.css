@@ -1,0 +1,33 @@
+.CreateCompany>form {
+    background-color: rgba(0, 238, 255, 0.76);
+    width: 350px;
+    height: 380px;
+    text-align: left;
+    border: 1px solid black;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: larger;
+}
+
+.CreateCompany select {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.CreateCompany input {
+    background-color: rgb(242, 242, 247);
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+.CreateCompany button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 45px;
+    background-color: rgba(34, 161, 6, 0.527);
+    font-weight: bold;
+}
